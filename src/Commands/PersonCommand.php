@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Opencbs\Person\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class PersonCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'person';
 
     public $description = 'My command';
 
